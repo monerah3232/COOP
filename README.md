@@ -1,2 +1,2 @@
 # COOP
-contains my coop projects and fiels
+contains my coop projects and files
